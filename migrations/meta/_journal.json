@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708308156006,
+      "tag": "0000_futuristic_loners",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708308994764,
+      "tag": "0001_chief_johnny_blaze",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708311815474,
+      "tag": "0002_careful_flatman",
+      "breakpoints": true
+    }
+  ]
+}
